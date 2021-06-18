@@ -1,17 +1,59 @@
 
 #EXTM3U
 
+#EXTINF:-1 group-title="LOCALES 1", ENCUENTRO 22.1
+https://www.youtube.com/user/encuentro/live
+
+#EXTINF:-1 group-title="LOCALES 1", PAKA PAKA 22.2
+https://www.youtube.com/user/CanalPakapaka/live
+
+#EXTINF:-1 group-title="LOCALES 1", TV PUBLICA 23.2
+https://www.youtube.com/user/TVPublicaArgentina/live
+
+#EXTINF:-1 group-title="LOCALES 1", KZO
+https://www.youtube.com/channel/UCv0zRACOVWmhu1Ilufm40-w/live
+
+#EXTINF:-1 group-title="LOCALES 1", CANAL DE LA CIUDAD
+https://www.youtube.com/user/CiudadAbiertaBA/live
+
+#EXTINF:-1 group-title="LOCALES 1", DEPORT TV 24.1
+https://www.youtube.com/channel/UCSmh3DFxBwFurMttT60PQ1g/live
+
+#EXTINF:-1 group-title="LOCALES 1", FRANCE 24.3
+https://www.youtube.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ/live
+
+#EXTINF:-1 group-title="LOCALES 1", CRONICA 24.4
+https://www.youtube.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g/live
+
+#EXTINF:-1 group-title="LOCALES 1", IP  24.5
+https://www.youtube.com/channel/UC1bBjOZieJWHbsFA0LwjjJA/live
+
 #EXTINF:-1 group-title="LOCALES 1", C5N  25.2
 https://www.youtube.com/user/c5n/live
 
+#EXTINF:-1 group-title="LOCALES 1", TODO NOTICIAS
+https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
+
+#EXTINF:-1 group-title="LOCALES 1", LA NACION + 25.3
+https://www.youtube.com/user/LaNacionTV/live
+
+#EXTINF:-1 group-title="LOCALES 1", RT 25.5
+https://www.youtube.com/channel/UCEIhICHOQOonjE6V0SLdrHQ/live
+
+#EXTINF:-1 group-title="LOCALES 1", DW ESPAÑOL
+https://www.youtube.com/user/DeutscheWelleEspanol/live
+
+#EXTINF:-1 group-title="LOCALES 1", DW ESPAÑOL
+https://www.youtube.com/user/euronewses/live
+
+#EXTINF:-1 group-title="LOCALES 1", AMERICA SPORT
+https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
+
+#EXTINF:-1 group-title="LOCALES 1", AMERICA SPORT
+https://www.youtube.com/user/palermoturf/live
+
 #EXTINF:-1 group-title="LOCALES 1", El Seis Bariloche
 https://www.youtube.com/user/elseisbariloche/live
-
-#EXTINF:-1 group-title="LOCALES 1", IP 24.5
-https://www.youtube.com/channel/UC1bBjOZieJWHbsFA0LwjjJA/live
-
-#EXTINF:-1 group-title="LOCALES 1", CRONICA 24.3
-https://www.youtube.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g/live
 
 #EXTINF:-1 group-title="LOCALES 1", VORTERIX
 https://www.youtube.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug/live
