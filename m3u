@@ -21,25 +21,25 @@ https://www.youtube.com/user/HCDNTV/live
 
 
 
-#EXTINF:-1 group-title="LOCALES 1", FRANCE 24.3
+#EXTINF:-1 group-title="NOTICIAS LOCAL", FRANCE 24.3
 https://www.youtube.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ/live
 
-#EXTINF:-1 group-title="LOCALES 1", CRONICA 24.4
+#EXTINF:-1 group-title="NOTICIAS LOCAL", CRONICA 24.4
 https://www.youtube.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g/live
 
-#EXTINF:-1 group-title="LOCALES 1", IP  24.5
+#EXTINF:-1 group-title="NOTICIAS LOCAL", IP  24.5
 https://www.youtube.com/channel/UC1bBjOZieJWHbsFA0LwjjJA/live
 
-#EXTINF:-1 group-title="LOCALES 1", C5N  25.2
+#EXTINF:-1 group-title="NOTICIAS LOCAL", C5N  25.2
 https://www.youtube.com/user/c5n/live
 
-#EXTINF:-1 group-title="LOCALES 1", TODO NOTICIAS
+#EXTINF:-1 group-title="NOTICIAS LOCAL", TODO NOTICIAS
 https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
 
-#EXTINF:-1 group-title="LOCALES 1", LA NACION + 25.3
+#EXTINF:-1 group-title="NOTICIAS LOCAL", LA NACION + 25.3
 https://www.youtube.com/user/LaNacionTV/live
 
-#EXTINF:-1 group-title="LOCALES 1", RT 25.5
+#EXTINF:-1 group-title="NOTICIAS LOCAL", RT 25.5
 https://www.youtube.com/channel/UCEIhICHOQOonjE6V0SLdrHQ/live
 
 
@@ -64,80 +64,94 @@ https://www.youtube.com/user/eloncecom/live
 #EXTINF:-1 group-title="LOCALES 1", DOCE CORDOBA
 https://www.youtube.com/watch?v=gBbMbqILzXU
 
-#EXTINF:-1 group-title="LOCALES 1", DW ESPAÑOL
-https://www.youtube.com/user/DeutscheWelleEspanol/live
-
-#EXTINF:-1 group-title="LOCALES 1", EURONEWS ESPAÑOL
-https://www.youtube.com/user/euronewses/live
-
-#EXTINF:-1 group-title="LOCALES 1", MEGANOTICIAS CHILE
-https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q/live
-
-#EXTINF:-1 group-title="LOCALES 1", T13 CHILE
-https://www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/live
-
-#EXTINF:-1 group-title="LOCALES 1", FORO TV MEXICO
-https://www.youtube.com/channel/UCUsm-fannqOY02PNN67C0KA/live
-
-#EXTINF:-1 group-title="LOCALES 1", MILENIO MEXICO
-https://www.youtube.com/channel/UCFxHplbcoJK9m70c4VyTIxg/live
-
-#EXTINF:-1 group-title="LOCALES 1", TELEVISA GUADALAJARA
-https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
-
-
-#EXTINF:-1 group-title="LOCALES 1", CANAL 6 MEXICO
-https://www.youtube.com/channel/UCo1nfa1JKNqtcUyLjLwTiIw/live
-
-#EXTINF:-1 group-title="LOCALES 1", DEPORT TV 24.1
-https://www.youtube.com/channel/UCSmh3DFxBwFurMttT60PQ1g/live
-
-#EXTINF:-1 group-title="LOCALES 1", AMERICA SPORT
-https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
-
-#EXTINF:-1 group-title="LOCALES 1", HIPODROMO DE PALERMO
-https://www.youtube.com/user/palermoturf/live
-
 #EXTINF:-1 group-title="LOCALES 1", El Seis Bariloche
 https://www.youtube.com/user/elseisbariloche/live
 
 #EXTINF:-1 group-title="LOCALES 1", ADN SUR COMODORO RIVADAVIA
 https://www.youtube.com/user/adnsurtv/live
 
-#EXTINF:-1 group-title="LOCALES 1", VORTERIX
+#EXTINF:-1 group-title="NOTICIAS", DW ESPAÑOL
+https://www.youtube.com/user/DeutscheWelleEspanol/live
+
+#EXTINF:-1 group-title="NOTICIAS", EURONEWS ESPAÑOL
+https://www.youtube.com/user/euronewses/live
+
+#EXTINF:-1 group-title="NOTICIAS", MEGANOTICIAS CHILE
+https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q/live
+
+#EXTINF:-1 group-title="NOTICIAS", T13 CHILE
+https://www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/live
+
+#EXTINF:-1 group-title="NOTICIAS", FORO TV MEXICO
+https://www.youtube.com/channel/UCUsm-fannqOY02PNN67C0KA/live
+
+#EXTINF:-1 group-title="NOTICIAS", MILENIO MEXICO
+https://www.youtube.com/channel/UCFxHplbcoJK9m70c4VyTIxg/live
+
+#EXTINF:-1 group-title="NOTICIAS", TELEVISA GUADALAJARA
+https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
+
+
+#EXTINF:-1 group-title="NOTICIAS", CANAL 6 MEXICO
+https://www.youtube.com/channel/UCo1nfa1JKNqtcUyLjLwTiIw/live
+
+#EXTINF:-1 group-title="NOTICIAS", d'IB3 TELEVISIÓ
+https://www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg/live
+
+#EXTINF:-1 group-title="NOTICIAS", Sky News live
+https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
+
+#EXTINF:-1 group-title="NOTICIAS", Newsmax Live
+https://www.youtube.com/channel/UCx6h-dWzJ5NpAlja1YsApdg/live
+
+#EXTINF:-1 group-title="DEPORTE", DEPORT TV 24.1
+https://www.youtube.com/channel/UCSmh3DFxBwFurMttT60PQ1g/live
+
+#EXTINF:-1 group-title="DEPORTE", AMERICA SPORT
+https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
+
+#EXTINF:-1 group-title="DEPORTE", HIPODROMO DE PALERMO
+https://www.youtube.com/user/palermoturf/live
+
+
+
+#EXTINF:-1 group-title="RADIO", VORTERIX
 https://www.youtube.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug/live
 
-#EXTINF:-1 group-title="LOCALES 1", FM 100
+#EXTINF:-1 group-title="RADIO", FM 100
 https://www.youtube.com/channel/UC2zO2jZCDplwm8SVsXUcxCQ/live
 
 
-#EXTINF:-1 group-title="LOCALES 1", FOURS SEASONS BUENOS AIRES
+#EXTINF:-1 group-title="WEB CAM", FOURS SEASONS BUENOS AIRES
 https://www.youtube.com/channel/UCCkRwmztPEvut3gpsgmCmzw/live
 
-#EXTINF:-1 group-title="LOCALES 1", USHUAIA VIVO
+#EXTINF:-1 group-title="WEB CAM", USHUAIA VIVO
 https://www.youtube.com/channel/UC6NTD1HmdaZMbe9K5qADOvw/live
 
+#EXTINF:-1 group-title="CULTURA", NASA TV
+https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ/live
 
-#EXTINF:-1 group-title="LOCALES 1", BabyBus
+
+#EXTINF:-1 group-title="INFANTIL", BabyBus
 https://www.youtube.com/watch?v=9FOhlvqOW9g
 
-#EXTINF:-1 group-title="LOCALES 1", La Granja de Zenón
+#EXTINF:-1 group-title="INFANTIL", La Granja de Zenón
 https://www.youtube.com/watch?v=aWvEBIBX7e0
 
-#EXTINF:-1 group-title="LOCALES 1", Las Ruedas del Autobús
+#EXTINF:-1 group-title="INFANTIL", Las Ruedas del Autobús
 https://www.youtube.com/watch?v=jmxcCw1UrwA
 
-#EXTINF:-1 group-title="LOCALES 1", PEPPA PIG
+#EXTINF:-1 group-title="INFANTIL", PEPPA PIG
 https://www.youtube.com/watch?v=hl_nACnH42w
 
-#EXTINF:-1 group-title="LOCALES 1", Dave and Ava
+#EXTINF:-1 group-title="INFANTIL", Dave and Ava
 https://www.youtube.com/watch?v=QojxoIFWKOM
 
 
-#EXTINF:-1 group-title="LOCALES 1", HEROES EN PIJAMAS
+#EXTINF:-1 group-title="INFANTIL", HEROES EN PIJAMAS
 https://www.youtube.com/watch?v=SbugOb2aYFg
 
-#EXTINF:-1 group-title="LOCALES 1", PAW Patrol
+#EXTINF:-1 group-title="INFANTIL", PAW Patrol
 https://www.youtube.com/watch?v=kg1I6vR1t0g
 
 
