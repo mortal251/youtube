@@ -136,6 +136,12 @@ https://www.youtube.com/channel/UCo1nfa1JKNqtcUyLjLwTiIw/live
 #EXTINF:-1 group-title="INTERNACIONAL", d'IB3 TELEVISIÓ
 https://www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg/live
 
+#EXTINF:-1 group-title="INTERNACIONAL",  CNN BRASIL
+https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
+
+#EXTINF:-1 group-title="INTERNACIONAL",  SBT BRASILIA
+https://www.youtube.com/channel/UCOZQxZYlSjxWQisskqzbtjA/live
+
 #EXTINF:-1 group-title="INTERNACIONAL", Sky News live
 https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
 
@@ -181,6 +187,10 @@ https://www.youtube.com/channel/UCdgqABAA72AmJzAQUJTt_-Q/live
 #EXTINF:-1 group-title="WEB CAM", FOURS SEASONS BUENOS AIRES
 https://www.youtube.com/channel/UCCkRwmztPEvut3gpsgmCmzw/live
 
+
+#EXTINF:-1 group-title="WEB CAM", EARTH TV
+https://www.youtube.com/channel/UCRuyAVeVd7oUwh0LWmxxBBQ/live
+
 #EXTINF:-1 group-title="WEB CAM", USHUAIA VIVO
 https://www.youtube.com/channel/UC6NTD1HmdaZMbe9K5qADOvw/live
 
@@ -221,6 +231,10 @@ https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ/live
 
 #EXTINF:-1 group-title="INFANTIL", LOS SIMPSONS
 https://www.youtube.com/channel/UCaFEzFyj0GAwG77uzqMGklQ/live
+
+
+#EXTINF:-1 group-title="INFANTIL", LOS SIMPSONS 2
+https://www.youtube.com/channel/UCrdksSJWFKvyNl96sot05hg/live
 
 
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network LA
@@ -273,5 +287,8 @@ https://www.youtube.com/channel/UC4YImPQT-_0kCh5joATwyhw/live
 
 #EXTINF:-1 group-title="RELIGION", ICM tv
 https://www.youtube.com/channel/UCwitgKTDeBbS0MYOEdmsPIw/live
+
+#EXTINF:-1 group-title="RELIGION", TV Canção Nova
+https://www.youtube.com/channel/UCVrKQMmA2ew9LFzeIDaOFgw/live
 
 
