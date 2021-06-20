@@ -21,8 +21,7 @@ https://www.youtube.com/user/HCDNTV/live
 
 
 
-#EXTINF:-1 group-title="NOTICIAS", FRANCE 24.3
-https://www.youtube.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ/live
+
 
 #EXTINF:-1 group-title="NOTICIAS", CRONICA 24.4
 https://www.youtube.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g/live
@@ -39,8 +38,17 @@ https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
 #EXTINF:-1 group-title="NOTICIAS", LA NACION + 25.3
 https://www.youtube.com/user/LaNacionTV/live
 
+#EXTINF:-1 group-title="NOTICIAS", DIPUTADOS TV
+https://www.youtube.com/user/HCDNTV/live
+
+#EXTINF:-1 group-title="NOTICIAS", TELESUR 25.4
+https://www.youtube.com/channel/UCbHFKMtqLYkIBRiPHJwxu_w
+
 #EXTINF:-1 group-title="NOTICIAS", RT 25.5
 https://www.youtube.com/channel/UCEIhICHOQOonjE6V0SLdrHQ/live
+
+#EXTINF:-1 group-title="NOTICIAS", FRANCE 24.3
+https://www.youtube.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ/live
 
 
 #EXTINF:-1 group-title="LOCALES", TELEFE CORDOBA
@@ -67,11 +75,11 @@ https://www.youtube.com/watch?v=gBbMbqILzXU
 #EXTINF:-1 group-title="LOCALES", CANAL 12 TRENQUE LAUQUEN
 https://www.youtube.com/channel/UCaU_cKHQ4IFHvBzQ-tKS1-Q/live
 
-#EXTINF:-1 group-title="LOCALES", El Seis Bariloche
-https://www.youtube.com/user/elseisbariloche/live
-
 #EXTINF:-1 group-title="LOCALES", ADN SUR COMODORO RIVADAVIA
 https://www.youtube.com/user/adnsurtv/live
+
+#EXTINF:-1 group-title="LOCALES", CANAL 7 BAHIA BLANCA
+https://www.youtube.com/channel/UCw677CSb9m-vovVrxF0vylQ/live
 
 #EXTINF:-1 group-title="INTERNACIONAL", DW ESPAÑOL
 https://www.youtube.com/user/DeutscheWelleEspanol/live
@@ -80,13 +88,16 @@ https://www.youtube.com/user/DeutscheWelleEspanol/live
 https://www.youtube.com/user/euronewses/live
 
 #EXTINF:-1 group-title="INTERNACIONAL", RTVE ESPAÑA
-https://www.youtube.com/channel/UC7QZIf0dta-XPXsp9Hv4dTw
+https://www.youtube.com/channel/UC7QZIf0dta-XPXsp9Hv4dTw/live
 
 #EXTINF:-1 group-title="INTERNACIONAL", CANAL SUR ANDALUCIA
 https://www.youtube.com/channel/UCqwjtgaJflHga2aPWphG5PQ/live
 
+#EXTINF:-1 group-title="INTERNACIONAL", CANAL MALAGA
+https://www.youtube.com/user/Malaga24h/live
+
 #EXTINF:-1 group-title="INTERNACIONAL", GALICIA TELEVISION
-https://www.youtube.com/channel/UCz46p3cffUXUSGUtcnw_Ouw
+https://www.youtube.com/channel/UCz46p3cffUXUSGUtcnw_Ouw/live
 
 #EXTINF:-1 group-title="INTERNACIONAL", 24 HORAS CHILE
 https://www.youtube.com/channel/UCTXNz3gjAypWp3EhlIATEJQ/live
@@ -96,6 +107,10 @@ https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q/live
 
 #EXTINF:-1 group-title="INTERNACIONAL", T13 CHILE
 https://www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/live
+
+
+#EXTINF:-1 group-title="INTERNACIONAL", TRECE PARAGUAY
+https://www.youtube.com/user/eltrecePy/live
 
 #EXTINF:-1 group-title="INTERNACIONAL", FORO TV MEXICO
 https://www.youtube.com/channel/UCUsm-fannqOY02PNN67C0KA/live
@@ -205,7 +220,7 @@ https://www.youtube.com/channel/UCpR-vq358IEHwt-FgPsEBpA/live
 https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ/live
 
 #EXTINF:-1 group-title="INFANTIL", LOS SIMPSONS
-https://www.youtube.com/channel/UCaFEzFyj0GAwG77uzqMGklQ
+https://www.youtube.com/channel/UCaFEzFyj0GAwG77uzqMGklQ/live
 
 
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network LA
@@ -233,8 +248,7 @@ https://www.youtube.com/channel/UC3xdYJcb7ny8Weoo53vS9LA/live
 #EXTINF:-1 group-title="INFANTIL", POCOYO
 https://www.youtube.com/channel/UCnB5W_ZJgiDFnklejRGADxw/live
 
-#EXTINF:-1 group-title="INFANTIL", JORGE EL CURIOSO
-https://www.youtube.com/channel/UCWpnUMsmO7UXquKw5f-suFQ/live
+
 
 #EXTINF:-1 group-title="INFANTIL", TV PARA NIÑOS
 https://www.youtube.com/channel/UCuk_csKI_Y88lV0V51VpeuQ/live
@@ -258,6 +272,6 @@ https://www.youtube.com/channel/UC4YImPQT-_0kCh5joATwyhw/live
 
 
 #EXTINF:-1 group-title="RELIGION", ICM tv
-https://www.youtube.com/channel/UCwitgKTDeBbS0MYOEdmsPIw
+https://www.youtube.com/channel/UCwitgKTDeBbS0MYOEdmsPIw/live
 
 
