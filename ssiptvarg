@@ -379,6 +379,9 @@ https://20823.live.streamtheworld.com/CADENA3_SC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Los_40.svg" group-title="RADIO", LOS 40 105.5 FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINAAAC 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Radio_Disney_Logo.svg/1280px-Radio_Disney_Logo.svg.png" group-title="RADIO", RADIO DISNEY
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA.mp3
+
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/88feb4de6cabd53d7af9879e56131cbd.jpg" group-title="RADIO", RADIO VALE 97.5 FM 
 http://vale.stweb.tv:1935/vale/live/playlist.m3u8
 
