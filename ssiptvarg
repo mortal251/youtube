@@ -51,6 +51,9 @@ https://www.youtube.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ/live
 #EXTINF:-1 group-title="NOTICIAS", NOTICIERO CANAL TRECE 
 https://www.youtube.com/channel/UC0DM_mHV2u6dj8ig51GkQwg/live
 
+#EXTINF:-1 group-title="NOTICIAS", TELEFE NOTICIAS
+https://www.youtube.com/channel/UChxGASjdNEYHhVKpl667Huw/live
+
 
 
 
@@ -103,15 +106,11 @@ https://www.youtube.com/channel/UCMy706Rhe2swaTmljCgiYVg/live
 #EXTINF:-1 group-title="LOCALES", CHACO TV
 https://www.youtube.com/channel/UCPmnk6gpje7qhq2eaAwtsMQ/live
 
-
-
 #EXTINF:-1 group-title="LOCALES", CANAL 9 SAN LUIS
 https://www.youtube.com/channel/UCLv8WKqGG6iPTR5lm7Vrb2A/live
 
-
 #EXTINF:-1 group-title="LOCALES", TRS24I SANTA FE
 https://www.youtube.com/channel/UC-vbYeF8zpSFyhSeulRzZtQ/live
-
 
 #EXTINF:-1 group-title="LOCALES", NOTICIERO AMERIC TUCUMAN PRIMEROS HD
 https://www.youtube.com/channel/UCjCPoveH-aGZh42wq3OvVrA/live
@@ -221,26 +220,14 @@ https://www.youtube.com/channel/UC1pzT_Zr8kmjuMg5oOo4SvA/live
 #EXTINF:-1 group-title="DEPORTE",  Newell's Old Boys
 https://www.youtube.com/channel/UCezBCgae0PUa3JS9uG0ah3Q/live
 
-
-
 #EXTINF:-1 group-title="DEPORTE", AMERICA SPORT
 https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
 
 #EXTINF:-1 group-title="DEPORTE", HIPODROMO DE PALERMO
 https://www.youtube.com/user/palermoturf/live
 
-#EXTINF:-1 group-title="DEPORTE", Claro Sports VAMOS TOKIO
-https://www.youtube.com/watch?v=pQONlmOhXeg
-
-#EXTINF:-1 group-title="DEPORTE", Claro Sports 2 VAMOS TOKIO
-https://www.youtube.com/watch?v=51iVn2QqGLY
-
-#EXTINF:-1 group-title="DEPORTE", Claro Sports 3 VAMOS TOKIO
-https://www.youtube.com/watch?v=tQ4FuUCmsOM
-
-#EXTINF:-1 group-title="DEPORTE", Claro Sports 4 VAMOS TOKIO
-https://www.youtube.com/watch?v=QlMUZM5sWkg
-
+#EXTINF:-1 group-title="DEPORTE", Claro Sports
+https://www.youtube.com/channel/UCqfCJBfrFSO4tZM1LNZTBFQ/live
 
 #EXTINF:-1 group-title="DEPORTE", World Padel Tour
 https://www.youtube.com/channel/UCK59dYVs3Wgwoe73nDTH6jw/live
@@ -289,6 +276,20 @@ https://www.youtube.com/channel/UC4-4n8Kj8CGPMJzWUezw8gA/live
 #EXTINF:-1 group-title="MUSICA", GRUPEROS INMORTALES
 https://www.youtube.com/channel/UC9jbR5ztAQTPLhb9MMOwfKA/live
 
+#EXTINF:-1 group-title="MUSICA", MUSICA CRISTIANA
+https://www.youtube.com/channel/UCYwmWz6t-Krb6y1pqQRf3sQ/live
+
+#EXTINF:-1 group-title="MUSICA", MEJOR GRUPO
+https://www.youtube.com/channel/UCtXQJjBuT-tFFO8OwOHG8YQ/live
+
+#EXTINF:-1 group-title="MUSICA", XDeep Club
+https://www.youtube.com/channel/UCB37LnggqsIkEK-sdV4zgiw/live
+
+#EXTINF:-1 group-title="MUSICA", Infinito Música Pop
+https://www.youtube.com/channel/UCx5bKdcn57B5NPxPRHtS-Hg/live
+
+#EXTINF:-1 group-title="MUSICA", Beautiful Relaxing Music
+https://www.youtube.com/channel/UCDXpLJi-8QdilIrD8BzPZvw/live
 
 
 
@@ -409,6 +410,9 @@ https://www.youtube.com/channel/UC4YImPQT-_0kCh5joATwyhw/live
 
 #EXTINF:-1 group-title="INFANTIL", TALKING TORN
 https://www.youtube.com/channel/UCm3hAp1m1xlAz0ve_EKAo4g/live
+
+#EXTINF:-1 group-title="INFANTIL", 123 GO! Spanish
+https://www.youtube.com/channel/UCYtt2TP3sqR9_qXnc1G4eRA/live
 
 
 
