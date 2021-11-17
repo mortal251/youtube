@@ -92,7 +92,6 @@ https://www.youtube.com/user/eloncecom/live
 #EXTINF:-1 group-title="LOCALES", DOCE CORDOBA
 https://www.youtube.com/watch?v=gBbMbqILzXU
 
-
 #EXTINF:-1 group-title="LOCALES", NOTICIERO TELE DOCE CORDOBA
 https://www.youtube.com/channel/UCiaePeoCqpU8hBHiNrgkzrA/live
 
@@ -117,14 +116,8 @@ https://www.youtube.com/channel/UCMy706Rhe2swaTmljCgiYVg/live
 #EXTINF:-1 group-title="LOCALES", CHACO TV
 https://www.youtube.com/channel/UCPmnk6gpje7qhq2eaAwtsMQ/live
 
-#EXTINF:-1 group-title="LOCALES", CANAL 9 SAN LUIS
-https://www.youtube.com/channel/UCLv8WKqGG6iPTR5lm7Vrb2A/live
-
 #EXTINF:-1 group-title="LOCALES", TRS24I SANTA FE
 https://www.youtube.com/channel/UC-vbYeF8zpSFyhSeulRzZtQ/live
-
-#EXTINF:-1 group-title="LOCALES", NOTICIERO AMERIC TUCUMAN PRIMEROS HD
-https://www.youtube.com/channel/UCjCPoveH-aGZh42wq3OvVrA/live
 
 #EXTINF:-1 group-title="LOCALES", CANAL 3 SUPER CANAL
 https://www.youtube.com/user/supercanal3oeste/live
@@ -233,7 +226,7 @@ https://www.youtube.com/channel/UCvjX3jBp_iLCZCpKqlXhHDw/live
 #EXTINF:-1 group-title="DEPORTE", CLUB UNION
 https://www.youtube.com/channel/UC1pzT_Zr8kmjuMg5oOo4SvA/live
 
-#EXTINF:-1 group-title="DEPORTE",  Newell's Old Boys
+#EXTINF:-1 group-title="DEPORTE", Newell's Old Boys
 https://www.youtube.com/channel/UCezBCgae0PUa3JS9uG0ah3Q/live
 
 #EXTINF:-1 group-title="DEPORTE", AMERICA SPORT
@@ -384,7 +377,6 @@ https://www.youtube.com/channel/UCQySZQ6rrgJXRuonMwIIGMA/live
 #EXTINF:-1 group-title="INFANTIL", TOM & JERRY
 https://www.youtube.com/channel/UCB82v6uKp1S-I-DVoL2neDA/live
 
-
 #EXTINF:-1 group-title="INFANTIL", MARATON PANTERA ROSA
 https://www.youtube.com/watch?v=OMbY_OHYrf0
 
@@ -433,6 +425,7 @@ https://www.youtube.com/channel/UCm3hAp1m1xlAz0ve_EKAo4g/live
 #EXTINF:-1 group-title="INFANTIL", 123 GO! Spanish
 https://www.youtube.com/channel/UCYtt2TP3sqR9_qXnc1G4eRA/live
 
+
 #EXTINF:-1 group-title="RELIGION", TIEMPO NUEVO
 https://www.youtube.com/channel/UCKSf_WQ0lFuNen4Z86myrKQ/live
 
@@ -452,7 +445,6 @@ https://www.youtube.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug/live
 
 #EXTINF:-1 group-title="RADIO", FM 100
 https://www.youtube.com/channel/UC2zO2jZCDplwm8SVsXUcxCQ/live
-
 
 #EXTINF:-1 group-title="RADIO", URBANA 104.1
 https://www.youtube.com/channel/UCC1kfsMJko54AqxtcFECt-A/live
